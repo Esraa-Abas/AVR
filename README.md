@@ -2,7 +2,7 @@
 
 This repository documents my journey in learning **AVR microcontrollers** and their applications in embedded systems. Through various projects and implementations, I have explored key functionalities, including GPIO, External Interrupts (EXTI), ADC, communication protocols, timers, and more.
 
-## 🛠️ Here are The AVR Implementations you find in this Repo
+## 🛠️ Here what you find in this Repo.
 
 ### 1. **GPIO (General Purpose Input/Output)**
 - **Overview**: Learn how to configure and use GPIO pins for input and output operations.
@@ -31,7 +31,10 @@ This repository documents my journey in learning **AVR microcontrollers** and th
 ### 7. **SPI (Serial Peripheral Interface)**
 - **Overview**: Use the SPI protocol for high-speed communication between microcontrollers and peripherals.
 - **Projects**: Implemented communication with SPI-based sensors and displays, showcasing the speed and efficiency of SPI.
+  
+### 7. **Keypad and SSD
 
+### 7. **EEROM
 ---
 
 ## 📚 Learning Resources
