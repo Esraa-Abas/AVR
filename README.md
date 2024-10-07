@@ -32,9 +32,9 @@ This repository documents my journey in learning **AVR microcontrollers** and th
 - **Overview**: Use the SPI protocol for high-speed communication between microcontrollers and peripherals.
 - **Projects**: Implemented communication with SPI-based sensors and displays, showcasing the speed and efficiency of SPI.
   
-### 7. **Keypad and SSD
+### 8. Keypad and SSD
 
-### 7. **EEROM
+### 9. EEROM
 ---
 
 ## 📚 Learning Resources
